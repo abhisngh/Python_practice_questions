@@ -1,0 +1,9 @@
+Trailing zeroes in n!
+
+Find and return number of trailing 0s in n factorial without calculating n factorial.
+Sample Input
+50
+Sample Output
+12
+Input Size Limit
+n < 10^11
